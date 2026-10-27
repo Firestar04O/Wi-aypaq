@@ -1,0 +1,17 @@
+Wiñaypaq project validation
+2026-10-12 20:57:25
+
+OK  ClockGameplay es la única escena de build y ocupa el índice 0.
+OK  Asset presente: Assets/Wiñaypaq/Scenes/ClockGameplay.unity
+OK  Asset presente: Assets/Wiñaypaq/Art/Clock/clock-layout.json
+OK  Asset presente: Assets/Wiñaypaq/Prefabs/ClockPiece.prefab
+OK  Asset presente: Assets/Wiñaypaq/Art/Clock/clock-gameplay.spriteatlas
+OK  Asset presente: Assets/Wiñaypaq/Art/Effects/clock-particles.mat
+OK  Los 35 recortes conservan exactamente los píxeles RGBA originales.
+OK  La escena contiene 11 piezas.
+OK  PuzzleManager contiene 21 costuras configuradas.
+OK  La escena no contiene scripts perdidos.
+OK  Las 11 piezas usan el prefab base y el material de partículas compartido.
+OK  Piezas, costuras y figura completa conservan sus offsets de composición.
+OK  Sol y sombra conservan sus pivotes visuales tras el recorte.
+OK  La escena pesa menos de 1 MB (338332 bytes).
